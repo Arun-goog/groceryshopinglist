@@ -1,0 +1,95 @@
+
+[
+    {
+        "serialnum":"#01",
+        "name": "Rice",
+        "quantity":"10",
+        "unit":"Kg",
+        "department":"Food item",
+        "notes":"Buy Palakkadan matta"
+    },
+
+    {
+        "serialnum":"#02",
+        "name": "Fish",
+        "quantity":"1",
+        "unit":"Kg",
+        "department":"Food item",
+        "notes":"Prefer small fish"
+
+    },
+
+    {
+        "serialnum":"#03",
+        "name": "Coconut oil",
+        "quantity":"5",
+        "unit":"Ltr",
+        "department":"Food item",
+        "notes":"Buy kera brand"
+    },
+
+    {
+        "serialnum":"#04",
+        "name": "Mask",
+        "quantity":"10",
+        "unit":"Number",
+        "department":"Health products",
+        "notes":"Buy N-95 mask"
+    },
+
+    {
+        "serialnum":"#05",
+        "name": "Sugar",
+        "quantity":"2",
+        "unit":"Kg",
+        "department":"Food item",
+        "notes":"Buy good quality"
+    },
+
+    {
+        "serialnum":"#06",
+        "name": "Sanitizer",
+        "quantity":"2",
+        "unit":"Number",
+        "department":"Health products",
+        "notes":"Alcohol content above 60%"
+    },
+
+    {
+        "serialnum":"#07",
+        "name": "Tomato",
+        "quantity":"1",
+        "unit":"Kg",
+        "department":"Food item",
+        "notes":"Buy fresh "
+    },
+
+    {
+        "serialnum":"#08",
+        "name": "Onion",
+        "quantity":"1",
+        "unit":"Kg",
+        "department":"Food item",
+        "notes":"Buy big and fresh"
+    },
+
+    {
+        "serialnum":"#09",
+        "name": "Salt",
+        "quantity":"3",
+        "unit":"Pkt",
+        "department":"Food item",
+        "notes":"Prefer non iodised"
+    },
+
+    {
+        "serialnum":"#10",
+        "name": "Green Chilli",
+        "quantity":"500",
+        "unit":"Gram",
+        "department":"Food item",
+        "notes":"Buy Kanthari"
+    }
+
+    
+]
